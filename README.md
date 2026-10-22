@@ -4,6 +4,8 @@
 
 Trabajo práctico grupal de investigación — *Programación en Python*, Ingeniería en Sistemas, Universidad Abierta Interamericana (UAI).
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximoAlejandroKirichuk/prediccion-demanda-rossmann-xgboost/blob/main/Tp_python_A_y_B.ipynb)
+
 **Integrantes:** Benjamín Aguila · Maximo Kirichuk · Lucas Molinari · Maximo Yapura
 
 ---
@@ -47,7 +49,7 @@ El modelo es **XGBoost** (`XGBRegressor`) con los mismos hiperparámetros en tod
 ## Cómo ejecutarlo
 
 1. Descargar `train.csv` desde [Rossmann Store Sales (Kaggle)](https://www.kaggle.com/c/rossmann-store-sales/data).
-2. Abrir `Tp_python_A_y_B.ipynb` en [Google Colab](https://colab.research.google.com/) (*Archivo → Subir notebook*).
+2. Abrir el notebook en Colab con el botón **Abrir en Colab** de arriba (o en [este link](https://colab.research.google.com/github/MaximoAlejandroKirichuk/prediccion-demanda-rossmann-xgboost/blob/main/Tp_python_A_y_B.ipynb)).
 3. Ejecutar las celdas en orden. En la sección 3 aparece un botón para **subir `train.csv`**; el notebook no depende de rutas ni de Google Drive.
 4. Los CSV con las métricas se descargan al final de cada configuración.
 
